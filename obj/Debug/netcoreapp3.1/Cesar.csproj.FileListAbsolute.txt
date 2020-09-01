@@ -1,0 +1,13 @@
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.exe
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.deps.json
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.runtimeconfig.json
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.runtimeconfig.dev.json
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.dll
+D:\DoNetCore\Cesar\bin\Debug\netcoreapp3.1\Cesar.pdb
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.csprojAssemblyReference.cache
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.AssemblyInfoInputs.cache
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.AssemblyInfo.cs
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.csproj.CoreCompileInputs.cache
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.dll
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.pdb
+D:\DoNetCore\Cesar\obj\Debug\netcoreapp3.1\Cesar.genruntimeconfig.cache
